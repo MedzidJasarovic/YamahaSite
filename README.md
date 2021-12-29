@@ -1,1 +1,2 @@
-https://medzidjasarovic.github.io/YamahaSite/index.html
+https://medzidjasarovic.github.io/YamahaSite
+
